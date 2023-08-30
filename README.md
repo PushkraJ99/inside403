@@ -39,7 +39,7 @@ Default Worslist at :- /usr/share/wordlists/dirbuster/directory-list-2.3-medium.
   
 For complete installation, run following command
 ```sh
-  git clone https://github.com/thecyberneh/inside403.git
+  git clone https://github.com/PushkraJ99/inside403.git
   cd inside403
   bash installer.sh
 ```
